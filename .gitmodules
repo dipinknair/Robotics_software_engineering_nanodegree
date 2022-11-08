@@ -1,0 +1,3 @@
+[submodule "Gazebo_Mobile_robot"]
+	path = Gazebo_Mobile_robot
+	url = git@github.com:dipinknair/Gazebo_Mobile_robot.git
