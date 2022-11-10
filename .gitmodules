@@ -1,3 +1,12 @@
 [submodule "Gazebo_Mobile_robot"]
 	path = Gazebo_Mobile_robot
 	url = git@github.com:dipinknair/Gazebo_Mobile_robot.git
+[submodule "Object_follower_robot_using_camera"]
+	path = Object_follower_robot_using_camera
+	url = https://github.com/dipinknair/Object_follower_robot_using_camera.git
+[submodule "Robot_localization_amcl"]
+	path = Robot_localization_amcl
+	url = https://github.com/dipinknair/Robot_localization_amcl.git
+[submodule "Mobile_robot_SLAM"]
+	path = Mobile_robot_SLAM
+	url = https://github.com/dipinknair/Mobile_robot_SLAM.git
